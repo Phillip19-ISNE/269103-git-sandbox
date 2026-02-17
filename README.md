@@ -1,5 +1,5 @@
 
-# Exercise 11: Learn GitHub - Branch and Merg
+# Exercise 11: Learn GitHub - Branch and Merge
 
 ## Instructions
 
